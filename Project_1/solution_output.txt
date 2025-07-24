@@ -1,0 +1,127 @@
+[Slug PID: 15777] Read seed value: 55555
+
+[Slug PID: 15777] Read seed value (converted to integer): 55555
+[Slug PID: 15777] Delay time is 6 seconds. Coin flip: 0
+[Slug PID: 15777] I’ll get the job done. Eventually...
+[Parent]: I forked off child 15772.
+	[Child, PID: 15772]: Executing ’./slug 1’ command...
+[Slug PID: 15778] Break time is over! I am running the ’id -group’ command.
+student  tty7         0.0.0.0          Mon Jan 22 19:04    gone - no logout
+runlevel (to lvl 5)   0.0.0.0          Mon Jan 22 19:02   still running
+reboot   system boot  0.0.0.0          Mon Jan 22 19:02   still running
+student  tty7         0.0.0.0          Fri Jan 19 01:49 - crash (3+17:12)
+runlevel (to lvl 5)   0.0.0.0          Fri Jan 19 01:49 - 19:02 (3+17:13)
+reboot   system boot  0.0.0.0          Fri Jan 19 01:49   still running
+student  tty7         0.0.0.0          Thu Jan 18 19:55 - crash  (05:54)
+runlevel (to lvl 5)   0.0.0.0          Thu Jan 18 19:54 - 01:49  (05:54)
+reboot   system boot  0.0.0.0          Thu Jan 18 19:54   still running
+student  tty7         0.0.0.0          Wed Jan 17 00:01 - crash (1+19:53)
+runlevel (to lvl 5)   0.0.0.0          Wed Jan 17 00:00 - 19:54 (1+19:54)
+reboot   system boot  0.0.0.0          Wed Jan 17 00:00   still running
+student  tty7         0.0.0.0          Sun Jan 14 05:20 - crash (2+18:40)
+runlevel (to lvl 5)   0.0.0.0          Sun Jan 14 05:19 - 00:00 (2+18:41)
+reboot   system boot  0.0.0.0          Sun Jan 14 05:19   still running
+runlevel (to lvl 5)   0.0.0.0          Sun Jan 14 05:17 - 05:19  (00:01)
+reboot   system boot  0.0.0.0          Sun Jan 14 05:17   still running
+shutdown system down  0.0.0.0          Sun Jan 14 05:16 - 05:17  (00:01)
+runlevel (to lvl 5)   0.0.0.0          Sun Jan 14 05:14 - 05:16  (00:01)
+reboot   system boot  0.0.0.0          Sun Jan 14 05:14 - 05:16  (00:02)
+shutdown system down  0.0.0.0          Sun Jan 14 05:14 - 05:14  (00:00)
+runlevel (to lvl 5)   0.0.0.0          Sun Jan 14 05:12 - 05:14  (00:01)
+reboot   system boot  0.0.0.0          Sun Jan 14 05:12 - 05:14  (00:01)
+shutdown system down  0.0.0.0          Mon Jan  8 20:57 - 05:12 (5+08:14)
+student  tty7         0.0.0.0          Mon Jan  8 20:52 - 20:57  (00:05)
+runlevel (to lvl 5)   0.0.0.0          Mon Jan  8 20:52 - 20:57  (00:05)
+reboot   system boot  0.0.0.0          Mon Jan  8 20:52 - 20:57  (00:05)
+shutdown system down  0.0.0.0          Mon Jan  8 20:52 - 20:52  (00:00)
+student  tty7         0.0.0.0          Mon Jan  8 20:48 - 20:51  (00:03)
+runlevel (to lvl 5)   0.0.0.0          Mon Jan  8 20:48 - 20:52  (00:03)
+reboot   system boot  0.0.0.0          Mon Jan  8 20:48 - 20:52  (00:03)
+shutdown system down  0.0.0.0          Mon Jan  8 20:47 - 20:48  (00:00)
+student  tty7         0.0.0.0          Mon Jan  8 19:35 - 20:47  (01:12)
+runlevel (to lvl 5)   0.0.0.0          Mon Jan  8 19:35 - 20:47  (01:12)
+reboot   system boot  0.0.0.0          Mon Jan  8 19:35 - 20:47  (01:12)
+shutdown system down  0.0.0.0          Tue Aug 22 13:59 - 19:35 (139+05:36)
+student  tty7         0.0.0.0          Tue Aug 22 13:44 - 13:58  (00:13)
+runlevel (to lvl 5)   0.0.0.0          Tue Aug 22 13:44 - 13:59  (00:14)
+reboot   system boot  0.0.0.0          Tue Aug 22 13:44 - 13:59  (00:14)
+shutdown system down  0.0.0.0          Tue Aug 22 13:44 - 13:44  (00:00)
+student  tty7         0.0.0.0          Tue Aug 22 13:29 - 13:44  (00:15)
+runlevel (to lvl 5)   0.0.0.0          Tue Aug 22 13:28 - 13:44  (00:15)
+reboot   system boot  0.0.0.0          Tue Aug 22 13:28 - 13:44  (00:15)
+shutdown system down  0.0.0.0          Mon Jul 24 19:52 - 13:28 (28+17:36)
+student  tty7         0.0.0.0          Mon Jul 24 18:36 - 19:52  (01:15)
+runlevel (to lvl 5)   0.0.0.0          Mon Jul 24 18:36 - 19:52  (01:15)
+reboot   system boot  0.0.0.0          Mon Jul 24 18:36 - 19:52  (01:16)
+shutdown system down  0.0.0.0          Mon Jul 24 18:32 - 18:36  (00:03)
+student  tty7         0.0.0.0          Mon Jul 24 18:31 - 18:32  (00:00)
+runlevel (to lvl 5)   0.0.0.0          Mon Jul 24 18:28 - 18:32  (00:04)
+reboot   system boot  0.0.0.0          Mon Jul 24 18:28 - 18:32  (00:04)
+shutdown system down  0.0.0.0          Fri Jul 21 14:54 - 18:28 (3+03:33)
+student  tty7         0.0.0.0          Fri Jul 21 14:37 - 14:54  (00:17)
+runlevel (to lvl 5)   0.0.0.0          Fri Jul 21 14:09 - 14:54  (00:45)
+reboot   system boot  0.0.0.0          Fri Jul 21 14:09 - 14:54  (00:45)
+shutdown system down  0.0.0.0          Thu Jul 20 16:46 - 14:09  (21:23)
+student  tty7         0.0.0.0          Thu Jul 20 16:33 - 16:45  (00:12)
+runlevel (to lvl 5)   0.0.0.0          Thu Jul 20 16:32 - 16:46  (00:13)
+reboot   system boot  0.0.0.0          Thu Jul 20 16:32 - 16:46  (00:13)
+shutdown system down  0.0.0.0          Thu Jul 20 16:32 - 16:32  (00:00)
+student  tty7         0.0.0.0          Thu Jul 20 15:11 - 16:32  (01:21)
+runlevel (to lvl 5)   0.0.0.0          Thu Jul 20 14:54 - 16:32  (01:37)
+reboot   system boot  0.0.0.0          Thu Jul 20 14:54 - 16:32  (01:37)
+shutdown system down  0.0.0.0          Thu Jul 20 00:47 - 14:54  (14:07)
+student  tty7         0.0.0.0          Thu Jul 20 00:15 - 00:47  (00:31)
+runlevel (to lvl 5)   0.0.0.0          Thu Jul 20 00:15 - 00:47  (00:31)
+reboot   system boot  0.0.0.0          Thu Jul 20 00:15 - 00:47  (00:31)
+shutdown system down  0.0.0.0          Thu Jul 20 00:15 - 00:15  (00:00)
+student  tty7         0.0.0.0          Thu Jul 20 00:01 - 00:15  (00:14)
+runlevel (to lvl 5)   0.0.0.0          Wed Jul 19 23:59 - 00:15  (00:16)
+reboot   system boot  0.0.0.0          Wed Jul 19 23:59 - 00:15  (00:16)
+shutdown system down  0.0.0.0          Wed Jul 19 23:59 - 23:59  (00:00)
+student  tty7         0.0.0.0          Wed Jul 19 23:37 - 23:58  (00:21)
+runlevel (to lvl 5)   0.0.0.0          Wed Jul 19 23:29 - 23:59  (00:29)
+reboot   system boot  0.0.0.0          Wed Jul 19 23:29 - 23:59  (00:29)
+shutdown system down  0.0.0.0          Wed Jul 19 23:29 - 23:29  (00:00)
+student  tty1         0.0.0.0          Wed Jul 19 23:20 - down   (00:09)
+runlevel (to lvl 5)   0.0.0.0          Wed Jul 19 23:20 - 23:29  (00:09)
+reboot   system boot  0.0.0.0          Wed Jul 19 23:19 - 23:29  (00:09)
+shutdown system down  0.0.0.0          Wed Jul 19 22:42 - 23:19  (00:37)
+student  tty1         0.0.0.0          Wed Jul 19 22:40 - down   (00:01)
+student  tty1         0.0.0.0          Wed Jul 19 22:38 - 22:40  (00:01)
+runlevel (to lvl 5)   0.0.0.0          Wed Jul 19 22:38 - 22:42  (00:04)
+reboot   system boot  0.0.0.0          Wed Jul 19 22:38 - 22:42  (00:04)
+shutdown system down  0.0.0.0          Wed Jul 19 22:37 - 22:38  (00:00)
+student  tty1         0.0.0.0          Wed Jul 19 22:05 - down   (00:32)
+runlevel (to lvl 5)   0.0.0.0          Wed Jul 19 22:05 - 22:37  (00:32)
+reboot   system boot  0.0.0.0          Wed Jul 19 22:04 - 22:37  (00:33)
+
+wtmp begins Wed Jul 19 22:04:51 2023
+[Slug PID: 15779] Read seed value: 56789
+
+[Slug PID: 15779] Read seed value (converted to integer): 56789
+[Slug PID: 15779] Delay time is 4 seconds. Coin flip: 1
+[Slug PID: 15779] I’ll get the job done. Eventually...
+[Parent]: I forked off child 15772.
+	[Child, PID: 15772]: Executing ’./slug 2’ command...
+[Slug PID: 15782] Break time is over! I am running the ’id -group’ command.
+[Parent]: I forked off child 15772.
+	[Child, PID: 15772]: Executing ’./slug 3’ command...
+[Slug PID: 15783] Read seed value: 12345
+
+[Slug PID: 15783] Read seed value (converted to integer): 12345
+[Slug PID: 15783] Delay time is 6 seconds. Coin flip: 1
+[Slug PID: 15783] I’ll get the job done. Eventually...
+1000
+[Slug PID: 15787] Break time is over! I am running the ’id -group’ command.
+[Slug PID: 15785] Read seed value: 456
+
+[Slug PID: 15785] Read seed value (converted to integer): 456
+[Slug PID: 15785] Delay time is 3 seconds. Coin flip: 1
+[Slug PID: 15785] I’ll get the job done. Eventually...
+[Parent]: I forked off child 15772.
+The race is ongoing. The following children are still racing: 15777 15779 15783 15785
+	[Child, PID: 15772]: Executing ’./slug 4’ command...
+Child 15772 has crossed the finish line! It took 5 secondsChild 15772 has crossed the finish line! It took 5 seconds[Slug PID: 15789] Break time is over! I am running the ’id -group’ command.
+1000
+Child 15772 has crossed the finish line! It took 5 seconds1000
+Child 15772 has crossed the finish line! It took 5 seconds
